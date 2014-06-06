@@ -6,7 +6,7 @@
         id        = "cl.micuponchile.aguas1"
         version   = "1.0.0">
 
-    <name>aguas1</name>
+    <name>Distribución de Agua - Chile</name>
 
     <description>
         Distribución de agua en camiones aljibe, Chile.
