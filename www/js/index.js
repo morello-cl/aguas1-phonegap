@@ -44,6 +44,10 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 
+        console.log('Activando StatusBar');
+        StatusBar.overlaysWebView(false);
+        StatusBar.backgroundColorByName('gray');
+
         console.log('Received Event: ' + id);
     }
 };
