@@ -36,7 +36,7 @@ body {
         color-stop(0.51, #FFFFFF)
     );
     background-attachment:fixed;
-    /*font-family:'ubuntu', 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;*/
+    font-family:'ubuntu', 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size:12px;
     height:100%;
     margin:0px;
@@ -93,7 +93,7 @@ h1 {
 }
 
 /* map */
-#second-page{
+#patente-page{
 
 }
 .big-text{
