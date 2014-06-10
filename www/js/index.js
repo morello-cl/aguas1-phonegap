@@ -21,6 +21,8 @@ var app = {
     initialize: function() {
         this.bindEvents();
         this.initFastClick();
+
+        navigator.splashscreen.show();
     },
     // Bind Event Listeners
     //
