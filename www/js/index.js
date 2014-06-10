@@ -48,6 +48,9 @@ var app = {
         StatusBar.overlaysWebView(false);
         StatusBar.backgroundColorByName('gray');
 
+        //ocultamos el splash
+        navigator.splashscreen.hide();
+
         console.log('Received Event: ' + id);
     }
 };
